@@ -3,7 +3,7 @@ Hello,
 Welcome to my Recipes project. I really appreciate you checking out my code.
 This is a project that was made as a demonstration of my skills of (at the time of writing this) HTML.
 
-I will be demonstration fundamentals such as creating the files, working with text, using links and inserting images. Other skills which I will be demonstrating will be my proficiency with Version Control Systems (VCS), the basic workflow and efficient utilization of the Linux command line.
+I will be demonstrating fundamentals such as creating the files, working with text, using links and inserting images. Other skills which I will be demonstrating will be my proficiency with Version Control Systems (VCS), the basic workflow and efficient utilization of the Linux command line.
 
 The project will include but is not limited to:
 
